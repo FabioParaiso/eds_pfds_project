@@ -1,0 +1,8 @@
+0.0-data-preparation.ipynb
+- This notebook contains all the exploration, cleaning, and preparation steps of the accident data.
+
+0.1-accident-general-evaluation.ipynb
+- This notebook contains the evaluation of accidents over different time intervals.
+
+0.2-accident-police-evaluation.ipynb
+- This notebook contains the evaluation of the impact of different accident factors in the occurrence of drivers and passengers.
