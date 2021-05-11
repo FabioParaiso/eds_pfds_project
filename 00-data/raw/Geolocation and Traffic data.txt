@@ -1,0 +1,14 @@
+To access to geographical and traffic data use the next link: 
+
+https://liveeduisegiunl.sharepoint.com/:f:/s/PfDS/EvsBQZOQj7tDv82rkJV-JDUBLKDQP8Kx0QAlAPqNEoBZNQ?e=YjjsiH
+
+Geographical data is in folders: 
+Semáforos; 
+Altimetria;
+cruzamentos_SLAT; 
+Mob_declives-shp 
+The notebook used to run it is: 0.3-accident-geographic-evaluation.ipynb 
+
+
+Traffic data is in the zipped folder waze_jams_20190101_20200630.rar 
+The notebook used to run it is: 0.4-traffic-data-processing.ipynb
