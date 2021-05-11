@@ -11,4 +11,4 @@ The notebook used to run it is: 0.3-accident-geographic-evaluation.ipynb
 
 
 Traffic data is in the zipped folder waze_jams_20190101_20200630.rar 
-The notebook used to run it is: 0.4-traffic-data-processing.ipynb
+The notebook used to run it is: 0.4-traffic-data-processing.ipynb (the unzipped file is the key input to run this notebook)
