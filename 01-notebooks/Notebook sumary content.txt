@@ -8,4 +8,7 @@
 - This notebook contains the evaluation of the impact of different accident factors in the occurrence of drivers and passengers.
 
 0.3-accident-geographic-evaluation.ipynb
-- This notebook contains the evaluation of the accidents based on their geographic zone while analysing the influence of slopes, crossroads, traffic lights, elevation and traffic.
+- This notebook contains the evaluation of the accidents based on their geographic zone while analysing the influence of slopes, crossroads, traffic lights, elevation and traffic. 
+
+0.4-traffic-data-processing.ipynb
+- This notebook contains a brief evaluation of traffic in Lisbon as well as the generation of a dataframe that intersects the traffic data with accident data.
