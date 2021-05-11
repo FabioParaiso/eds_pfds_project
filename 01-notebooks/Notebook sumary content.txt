@@ -6,3 +6,6 @@
 
 0.2-accident-police-evaluation.ipynb
 - This notebook contains the evaluation of the impact of different accident factors in the occurrence of drivers and passengers.
+
+0.3-accident-geographic-evaluation.ipynb
+- This notebook contains the evaluation of the accidents based on their geographic zone while analysing the influence of slopes, crossroads, traffic lights, elevation and traffic.
